@@ -1,6 +1,10 @@
-.background
+#button_send{
+	width:30%;
+}
+
+body
 {
-	background: red;
+	background: #ce4a4a;
 }
 
 	.login_div1 , .login_div2
